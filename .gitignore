@@ -35,3 +35,9 @@ hs_err_pid*
 
 # Apple hidden files
 .DS_Store
+
+*.aux
+
+*.pdf
+
+*.gz
